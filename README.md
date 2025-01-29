@@ -1,0 +1,5 @@
+# Adam Martin review
+After reviewing Jacobs website, I would say that the design is sleek and well done. I also think that the application form is excellent and includes everything an application form should like tick boxes, about me sections and other details which I liked. Some improvements that need doing would be the about the company part on the home page. I think you could've included more detail like how you train workers etc.
+
+# Thomas Gelder review
+From the website, some things I liked were the pictures of the work place included in the home page and the overall design and layout like the colours and the logo placed in the corner. Another thing I liked was the layout of the Specifications and how you included front-end and back-end developers in different sections. One thing I would improve on the website would be to add links do more courses for people to look through.

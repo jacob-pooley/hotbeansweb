@@ -121,7 +121,7 @@ fieldset textarea {
   height:10rem;
   width: 87rem;
   background-color: peru;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   color: rgb(95, 15, 15);
 } 
 
@@ -129,7 +129,7 @@ fieldset textarea {
   height: 10rem;
   width: 87rem;
   background-color: peru;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   color: rgb(88, 19, 19);
 }
 
@@ -137,7 +137,7 @@ fieldset textarea {
   height: 10rem;
   width: 87rem;
   background-color: peru;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   color: rgb(99, 18, 18);
 }
 
@@ -145,13 +145,15 @@ fieldset textarea {
 height: 20rem;
 width: 116rem;
 background-color: peru;
-color:rgb(99, 18, 18)
+color: black;
 }
 
 .back-end {
 height: 20rem;
 width: 116rem;
 background-color: peru;
+flex: auto;
+color: black;
 }
 
 .block {
@@ -160,7 +162,7 @@ background-color: peru;
 
 .responsibilities {
   font-size: 1.2rem;
-  color: rgb(99, 18, 18)
+  color: black;
 }
 
 .image-one, .image-two {
@@ -180,5 +182,21 @@ background-color: peru;
   display: flex;
   background-color: peru;
   height: auto;
+
 }
 
+.about-hot {
+  font-size: 2.2rem;
+}
+
+.important {
+  font-size: 2.5rem;
+}
+
+.front-resp {
+  background-color: burlywood;
+}
+
+.bullet {
+  font-size: 1.2rem;
+}
