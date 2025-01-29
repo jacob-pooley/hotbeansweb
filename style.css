@@ -1,0 +1,184 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    background-color: burlywood;
+    }
+  
+.brand {
+  display: flex;
+  background-color: wheat;
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+  color: brown;
+  align-items: center;
+  justify-content: space-between;
+}
+header img {
+  width: 6rem;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: peru;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #a11414;
+}
+
+main h1 {
+  text-align: center;
+  background-color: rgb(167, 88, 42);
+  font-size: 3rem;
+}
+
+main p {
+  color: brown;
+  font-size: 1.7rem;
+  margin: 1rem;
+}
+
+main section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main div {
+  width:100%;
+  height: 75vh;
+  background-color: rgb(167, 88, 42);
+  margin: 1rem;
+  display: flex;
+}
+
+.form-sheet{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  border: none;
+
+}
+
+.form-sheet p {
+  padding-bottom: 1rem;
+}
+
+#lname, #fname{
+  padding: 1rem;
+}
+
+fieldset textarea {
+  border: none;
+}
+
+.goat {
+  border: none;
+  text-align: center;
+  font-size: 1rem;
+  padding: 0.5rem;
+}
+
+.form-box {
+  margin-bottom: 2.4rem;
+  border: none;
+}
+
+#submit {
+  padding: 0.5rem 3rem;
+  border: none;
+  border-radius: 1rem;
+}
+
+.about-us {
+  font-size: 1.9rem;
+  color: brown;
+}
+
+.adam-martin {
+  height:10rem;
+  width: 87rem;
+  background-color: peru;
+  font-size: 1.5rem;
+  color: rgb(95, 15, 15);
+} 
+
+.james-lawrence {
+  height: 10rem;
+  width: 87rem;
+  background-color: peru;
+  font-size: 1.5rem;
+  color: rgb(88, 19, 19);
+}
+
+.tom {
+  height: 10rem;
+  width: 87rem;
+  background-color: peru;
+  font-size: 1.5rem;
+  color: rgb(99, 18, 18);
+}
+
+.front-end {
+height: 20rem;
+width: 116rem;
+background-color: peru;
+color:rgb(99, 18, 18)
+}
+
+.back-end {
+height: 20rem;
+width: 116rem;
+background-color: peru;
+}
+
+.block {
+  display: block;
+}
+
+.responsibilities {
+  font-size: 1.2rem;
+  color: rgb(99, 18, 18)
+}
+
+.image-one, .image-two {
+  height: 20rem;
+  background-color: peru;
+}
+
+.image-two img {
+  object-fit: fill;
+}
+
+.image-text {
+  height: 2rem;
+}
+
+.flex {
+  display: flex;
+  background-color: peru;
+  height: auto;
+}
+
